@@ -1,0 +1,3 @@
+Title1: Title
+Title2: End
+Title3: Game Over

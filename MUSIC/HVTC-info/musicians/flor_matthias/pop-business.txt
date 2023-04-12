@@ -1,0 +1,1 @@
+Notes: Fixed volume. Fixed note length. $C0 notes @ 8 frames.

@@ -1,0 +1,5 @@
+Title1: Title tune
+Title2: Ingame (hard)
+Title3: Ingame (soft)
+Title4: Death jingle
+Title5: Ending jingle

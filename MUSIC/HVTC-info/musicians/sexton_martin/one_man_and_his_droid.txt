@@ -1,0 +1,1 @@
+Notes: 3 bytes per note: length (1 byte) + frequency (2 bytes). 2nd channel is detuned by +4.

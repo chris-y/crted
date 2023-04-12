@@ -1,0 +1,1 @@
+Notes: Time signature: 3/4. Tempo: 12 frames. Fixed volume, fixed pattern length (128 notes).

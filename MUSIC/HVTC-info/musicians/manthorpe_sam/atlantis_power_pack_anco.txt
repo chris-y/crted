@@ -1,0 +1,2 @@
+Notes: Slightly broken music compared to the original, due to a bug in the memory transfer's code at the beginning of the game, used to set some code stored into an initially empty zone, to the area under the usual video color matrix.
+Covers: Johann Sebastian Bach: ?

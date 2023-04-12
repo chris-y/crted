@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=cRTED
+Comment=CPlus4 TED-music player (GUI/CLI)
+Icon=/usr/share/icons/cRTED-icon.png
+Exec=/usr/bin/crted.sh %f
+Terminal=false
+Categories=AudioVideo;Audio;Music;
+MimeType=application/x-cRTED-ted;application/x-cRTED-tmf;application/x-cRTED-tel;

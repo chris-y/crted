@@ -1,0 +1,2 @@
+Notes: Very small player (746 bytes including player + all music data).
+Covers: Original C64 title music.

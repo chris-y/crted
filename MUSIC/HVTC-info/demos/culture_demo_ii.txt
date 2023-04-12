@@ -1,0 +1,2 @@
+Notes: Fixed volume. Data format: 3 bytes per note, per channel: 2 bytes for 16 bit freq, 1 byte for note length.
+Covers: Yankee Doodle

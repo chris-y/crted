@@ -1,0 +1,6 @@
+Title1: Title
+Notes: The game contains 1 tune, and plays different sections of it 4 ways.
+Covers: La Cucaracha (Spanish folk song)
+Title2: Start
+Title3: Death
+Title4: End

@@ -1,0 +1,1 @@
+Notes: 64 notes, fixed length (12 frames each), no volume control.

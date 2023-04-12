@@ -50,3 +50,12 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+#executables
+crted
+crted.com
+crted.exe
+crted-1.0.deb
+libcrted.a
+libcrted.so
+

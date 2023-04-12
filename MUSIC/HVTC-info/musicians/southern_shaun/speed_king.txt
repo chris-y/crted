@@ -1,0 +1,1 @@
+Notes: Time signature: 4/4. Fixed note speed (8 frames). Fixed 32 byte volume map.

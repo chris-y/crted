@@ -1,0 +1,1 @@
+Notes: No volume control, 3/4 beat. Fixed note length (7 frames). Fixed pattern length (96 notes).

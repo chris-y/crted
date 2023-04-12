@@ -1,0 +1,1 @@
+Notes: Covers the title tune in one single channel, playing while the IRQ loader loads the game from the tape.

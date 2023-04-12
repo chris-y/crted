@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+ <mime-type type="application/x-cRTED-ted">
+  <comment>TED music-file for cRTED</comment>
+  <glob pattern="*.ted"/>
+  <icon name="cRTED-icon"/>
+ </mime-type>
+</mime-info>

@@ -1,0 +1,4 @@
+Title1: Title
+Notes: The game starts the song in different sections for the title, level and game over parts.
+Title2: Level
+Title3: Game Over
